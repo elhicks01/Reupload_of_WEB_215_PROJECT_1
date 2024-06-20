@@ -7,7 +7,7 @@
     height: 100px;
     background-color: #000;
     color: #fff;
-    font-size: 10vw; /* Adjust as needed for responsiveness */
+    font-size: 5rem; /* Adjust as needed for responsiveness */
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
