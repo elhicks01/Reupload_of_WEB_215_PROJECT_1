@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WEB-215-Project-1/static/css/main.245e8170.css",
+    "main.js": "/WEB-215-Project-1/static/js/main.949f045b.js",
+    "index.html": "/WEB-215-Project-1/index.html",
+    "main.245e8170.css.map": "/WEB-215-Project-1/static/css/main.245e8170.css.map",
+    "main.949f045b.js.map": "/WEB-215-Project-1/static/js/main.949f045b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245e8170.css",
+    "static/js/main.949f045b.js"
+  ]
+}
